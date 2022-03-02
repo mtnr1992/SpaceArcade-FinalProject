@@ -6,12 +6,12 @@ The program contains three panels:
 Main panel, game panel and record table
 ### Main panel
 Contains the following controls:
-Start of game, insert name and record table
-### Game panel
+Game Start, inserting name and record table
+### Main Game panel
 Contains the main functions:
 1. Running time
 2. Draw 
-3. Uploading files
+3. File uploading
 
 When the drawing function is the main function, it is made up of the following sub-functions:
   1. Background drawing in motion
@@ -37,6 +37,6 @@ When the drawing function is the main function, it is made up of the following s
         Produces and paints a drawing of a heart and a rifle bullet - during their assembly, life and shots will be added.
         When a rifle bullet is collected - in addition the spacecraft's weapon becomes faster and larger and more powerful.
 
-## Table of records
+### Table of records
 Loads a csv file, and displays the peaks in the table.
 Only after the function function will you update the file and save it.
