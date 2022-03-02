@@ -1,4 +1,9 @@
-# Arcade
+- Captain! We are in danger!
+- We need your help! Our galaxy is attacked by alien shooter👽👽👽
+- The alien invaders beat our squad, they destroyed all of galactica! Space team is waiting for your order! Please command ship to protect the galaxy and the surrounding asteroids.
+- Jump on ship! NOW
+
+# Arcade Space War
 This is the final projet in Realtime Embedded course I took during my Degree.
 
 ### indroduction video:
