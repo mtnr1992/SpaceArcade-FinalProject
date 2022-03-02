@@ -3,8 +3,9 @@ This is the final projet in Realtime Embedded course I took during my Degree.
 
 ### indroduction video:
 
-[Introduction guide](https://youtu.be/KNqgvRG7JUo)
+[Introduction guide video](https://youtu.be/KNqgvRG7JUo)
 
+###screen shot
 ![Screenshot](Capture.PNG)
 
 The program contains three panels:
