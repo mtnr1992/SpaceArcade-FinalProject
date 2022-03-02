@@ -1,0 +1,120 @@
+[Key_DownFunc]
+Class="Function"
+Prototype="int Key_DownFunc(int panel, int message, unsigned int *wParam, unsigned int *lParam, void *callbackData);"
+
+[Key_UpFunc]
+Class="Function"
+Prototype="int Key_UpFunc(int panel, int message, unsigned int *wParam, unsigned int *lParam, void *callbackData);"
+
+[Connect_To_Windows_Events]
+Class="Function"
+Prototype="void Connect_To_Windows_Events();"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[Images_Load_Discard]
+Class="Function"
+Prototype="void Images_Load_Discard();"
+
+[GAME_DATA]
+Class="Function"
+Prototype="void GAME_DATA();"
+
+[Top_Chart]
+Class="Function"
+Prototype="void Top_Chart();"
+
+[Loose]
+Class="Function"
+Prototype="void Loose();"
+
+[Win]
+Class="Function"
+Prototype="void Win();"
+
+[ExitFunc2]
+Class="Function"
+Prototype="int ExitFunc2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[START]
+Class="Function"
+Prototype="int START(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ExitFunc]
+Class="Function"
+Prototype="int ExitFunc(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Pause_Continue]
+Class="Function"
+Prototype="int Pause_Continue(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Tick]
+Class="Function"
+Prototype="int Tick(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Draw]
+Class="Function"
+Prototype="void Draw();"
+
+[ship_Creation]
+Class="Function"
+Prototype="void ship_Creation();"
+
+[ship_Location]
+Class="Function"
+Prototype="void ship_Location();"
+
+[ship_Draw]
+Class="Function"
+Prototype="void ship_Draw();"
+
+[extra_Life_Ammo]
+Class="Function"
+Prototype="void extra_Life_Ammo();"
+
+[shoot]
+Class="Function"
+Prototype="void shoot();"
+
+[hit_Validation]
+Class="Function"
+Prototype="void hit_Validation();"
+
+[enemies_Creation]
+Class="Function"
+Prototype="void enemies_Creation();"
+
+[enemies_Draw]
+Class="Function"
+Prototype="void enemies_Draw();"
+
+[exitTOP_CHART]
+Class="Function"
+Prototype="int exitTOP_CHART(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[TOP_CHARTS_BUTTON]
+Class="Function"
+Prototype="int TOP_CHARTS_BUTTON(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[reset]
+Class="Function"
+Prototype="void reset();"
+
+[ABOUT]
+Class="Function"
+Prototype="void ABOUT(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[HELP]
+Class="Function"
+Prototype="void HELP(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[DEMO]
+Class="Function"
+Prototype="void DEMO(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[ExitId]
+Class="Function"
+Prototype="int ExitId(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
