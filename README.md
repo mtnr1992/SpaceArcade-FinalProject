@@ -1,7 +1,7 @@
 # Arcade
 This is the final projet in Realtime Embedded course I took during my Degree.
 
-## indroduction video:
+### indroduction video:
 
 [Introduction guide](https://youtu.be/KNqgvRG7JUo)
 
